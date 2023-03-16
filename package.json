@@ -1,0 +1,10 @@
+{
+  "name": "redis-realtime",
+  "private": true,
+  "workspaces": [
+    "examples/realtime-be",
+    "examples/realtime-fe",
+    "packages/redis-realtime-react",
+    "packages/redis-realtime-node"
+  ]
+}
