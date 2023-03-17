@@ -5,7 +5,7 @@ import { RawDraftContentState } from 'draft-js'
 import React from 'react'
 import { useParams } from 'react-router'
 import DocEditor from '../components/editor'
-import { Document } from './types'
+import { Document } from './types'  
 
 interface DocProps {}
 
